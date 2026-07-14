@@ -1,5 +1,5 @@
-name: Outlook
-entryKey: obot-outlook
+name: Dev Outlook
+entryKey: obot-dev-outlook
 serverUserType: singleUser
 shortDescription: Manage Outlook emails, folders, drafts, and attachments via Microsoft Graph API
 description: |

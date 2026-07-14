@@ -1,5 +1,5 @@
-name: Google Sheets
-entryKey: obot-google-sheets
+name: Dev Google Sheets
+entryKey: obot-dev-google-sheets
 serverUserType: singleUser
 shortDescription: Create and manage Google Sheets spreadsheets, worksheets, cells, and formulas
 description: |

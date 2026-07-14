@@ -1,5 +1,5 @@
-name: Google Calendar
-entryKey: obot-google-calendar
+name: Dev Google Calendar
+entryKey: obot-dev-google-calendar
 serverUserType: singleUser
 shortDescription: Manage Google Calendar events, recurring events, and attendees with OAuth2
 description: |
@@ -133,4 +133,4 @@ toolPreview:
       event_id: Event id to list recurring event instances for
       time_min: "Upper bound (exclusive) for an event's start time to filter by. Must be an RFC3339 timestamp with mandatory time zone offset."
       time_max: "Lower bound (exclusive) for an event's end time to filter by. Must be an RFC3339 timestamp with mandatory time zone offset."
-      max_results: "Maximum number of events to return (1-500, default: 250)"  
+      max_results: "Maximum number of events to return (1-500, default: 250)"

@@ -1,5 +1,5 @@
-name: Excel
-entryKey: obot-excel
+name: Dev Excel
+entryKey: obot-dev-excel
 serverUserType: singleUser
 shortDescription: Manage Excel workbooks, worksheets, tables, and data with Microsoft Graph API
 description: |

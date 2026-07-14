@@ -1,5 +1,5 @@
-name: Google Drive
-entryKey: obot-google-drive
+name: Dev Google Drive
+entryKey: obot-dev-google-drive
 serverUserType: singleUser
 shortDescription: Manage Google Drive files, folders, permissions, and sharing with OAuth2
 description: |
@@ -50,7 +50,7 @@ toolPreview:
     description: Create a copy of a Google Drive file.
     params:
       file_id: ID of the file to copy
-      new_name: "New name for the copied file. If not provided, the copied file will be named \"Copy of [original name]\""
+      new_name: 'New name for the copied file. If not provided, the copied file will be named "Copy of [original name]"'
       new_parent_id: New parent folder ID for the copied file. Provide this if you want to have the copied file in a different folder.
   - name: update_file
     description: Update an existing file or folder in user's Google Drive. Can rename and/or move to a different location.
@@ -114,4 +114,4 @@ toolPreview:
     description: Rename an existing shared Google Drive
     params:
       drive_id: ID of the shared drive to rename
-      drive_name: New name for the shared drive  
+      drive_name: New name for the shared drive

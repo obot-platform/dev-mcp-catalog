@@ -1,5 +1,5 @@
-name: Word
-entryKey: obot-word
+name: Dev Word
+entryKey: obot-dev-word
 serverUserType: singleUser
 shortDescription: Create and manage Microsoft Word documents with markdown content conversion
 description: |

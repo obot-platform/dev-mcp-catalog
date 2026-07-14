@@ -1,5 +1,5 @@
-name: Gmail
-entryKey: obot-gmail
+name: Dev Gmail
+entryKey: obot-dev-gmail
 serverUserType: singleUser
 shortDescription: Send, read, draft, and organize Gmail emails with label management and search
 description: |
