@@ -22,7 +22,7 @@ description: |
 
 metadata:
   categories: Business
-icon: # TODO
+icon: https://img.icons8.com/?size=100&id=zfHRZ6i1Wg0U&format=png&color=000000
 repoURL: https://developers.figma.com/docs/figma-mcp-server/
 runtime: remote
 remoteConfig:
