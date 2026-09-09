@@ -1,6 +1,5 @@
 name: Dev Excel
 entryKey: obot-dev-excel
-serverUserType: singleUser
 shortDescription: Manage Excel workbooks, worksheets, tables, and data with Microsoft Graph API
 description: |
   ![Excel MCP Server](https://img.shields.io/badge/Excel-MCP%20Server-blue?style=for-the-badge&logo=microsoft-excel)

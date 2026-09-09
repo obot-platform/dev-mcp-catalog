@@ -1,6 +1,5 @@
 name: Dev Figma
 entryKey: obot-dev-figma
-serverUserType: singleUser
 shortDescription: Connect to Figma and work with designs, assets, and more
 description: |
   This is the official Model Context Protocol server for Figma.
