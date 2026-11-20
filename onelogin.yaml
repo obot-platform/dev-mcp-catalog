@@ -27,19 +27,22 @@ metadata:
   categories: Security & Compliance, SaaS & API Integrations
 icon: https://avatars.githubusercontent.com/u/263373?v=4
 repoURL: https://github.com/onelogin/onelogin-mcp
-env:
+config:
 - key: ONELOGIN_URL
   name: OneLogin URL
+  usage: env
   required: true
   sensitive: false
   description: Your OneLogin instance URL, for example https://mycompany.onelogin.com.
 - key: ONELOGIN_CLIENT_ID
   name: Client ID
+  usage: env
   required: true
   sensitive: true
   description: The client ID of your OneLogin API (v2) credential.
 - key: ONELOGIN_CLIENT_SECRET
   name: Client Secret
+  usage: env
   required: true
   sensitive: true
   description: The client secret of your OneLogin API (v2) credential.
